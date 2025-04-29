@@ -42,3 +42,6 @@ for number in number_array:
 # while count<m:
 #     print(count)
 #     count+=1
+
+name= input("Wahts your name? ")
+print("Welcome "+ name)
