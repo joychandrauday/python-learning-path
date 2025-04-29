@@ -19,6 +19,7 @@ This repository contains a detailed week-by-week learning path to master backend
 ---
 
 ## Week 1: Python Basics
+**Start Date:** `04/27/2025`  
 **Goal:** Master the fundamentals of Python programming.
 
 - **Topics to Cover:**
@@ -33,11 +34,12 @@ This repository contains a detailed week-by-week learning path to master backend
 - **Practice:**
   - Build small projects like a **calculator**, **to-do list app**, and simple **file parser**.
 
-- [ ] **Completed on:** `MM/DD/YYYY`
+- [ ] **Completed on:** `05/03/2025`
 
 ---
 
 ## Week 2: Git and Version Control
+**Start Date:** `05/04/2025`  
 **Goal:** Learn how to use Git for version control and GitHub for collaboration.
 
 - **Topics to Cover:**
@@ -49,11 +51,12 @@ This repository contains a detailed week-by-week learning path to master backend
   - Set up your own GitHub repository and track your Python projects.
   - Contribute to a small open-source project on GitHub.
 
-- [ ] **Completed on:** `MM/DD/YYYY`
+- [ ] **Completed on:** `05/10/2025`
 
 ---
 
 ## Week 3: Databases (SQL)
+**Start Date:** `05/11/2025`  
 **Goal:** Learn how to interact with relational databases using SQL.
 
 - **Topics to Cover:**
@@ -65,11 +68,12 @@ This repository contains a detailed week-by-week learning path to master backend
   - Build a small **inventory management system** with a database.
   - Create a **blog application** where posts are stored in the database.
 
-- [ ] **Completed on:** `MM/DD/YYYY`
+- [ ] **Completed on:** `05/17/2025`
 
 ---
 
 ## Week 4: Working with NoSQL Databases
+**Start Date:** `05/18/2025`  
 **Goal:** Understand NoSQL databases and how they differ from SQL.
 
 - **Topics to Cover:**
@@ -81,11 +85,12 @@ This repository contains a detailed week-by-week learning path to master backend
   - Build a **note-taking app** that stores data in MongoDB.
   - Build a **chat application** where messages are stored in a NoSQL database.
 
-- [ ] **Completed on:** `MM/DD/YYYY`
+- [ ] **Completed on:** `05/24/2025`
 
 ---
 
 ## Week 5: Introduction to Web Frameworks (Flask)
+**Start Date:** `05/25/2025`  
 **Goal:** Learn how to build web applications using the Flask framework.
 
 - **Topics to Cover:**
@@ -97,11 +102,12 @@ This repository contains a detailed week-by-week learning path to master backend
 - **Practice:**
   - Build a **simple blog** with Flask.
 
-- [ ] **Completed on:** `MM/DD/YYYY`
+- [ ] **Completed on:** `05/31/2025`
 
 ---
 
 ## Week 6: Working with APIs
+**Start Date:** `06/01/2025`  
 **Goal:** Learn how to build and consume APIs.
 
 - **Topics to Cover:**
@@ -113,11 +119,12 @@ This repository contains a detailed week-by-week learning path to master backend
   - Build a **simple REST API** for managing blog posts with Flask.
   - Integrate an external API into your Flask project (e.g., OpenWeatherMap API).
 
-- [ ] **Completed on:** `MM/DD/YYYY`
+- [ ] **Completed on:** `06/07/2025`
 
 ---
 
 ## Week 7: User Authentication and Authorization
+**Start Date:** `06/08/2025`  
 **Goal:** Learn how to implement user authentication and authorization.
 
 - **Topics to Cover:**
@@ -128,11 +135,12 @@ This repository contains a detailed week-by-week learning path to master backend
 - **Practice:**
   - Implement **login/signup functionality** and role-based access control in your blog application.
 
-- [ ] **Completed on:** `MM/DD/YYYY`
+- [ ] **Completed on:** `06/14/2025`
 
 ---
 
 ## Week 8: Asynchronous Programming
+**Start Date:** `06/15/2025`  
 **Goal:** Understand asynchronous programming in Python.
 
 - **Topics to Cover:**
@@ -144,11 +152,12 @@ This repository contains a detailed week-by-week learning path to master backend
 - **Practice:**
   - Build a **web scraper** that fetches data asynchronously from multiple websites.
 
-- [ ] **Completed on:** `MM/DD/YYYY`
+- [ ] **Completed on:** `06/21/2025`
 
 ---
 
 ## Week 9: Deployment and Cloud Platforms
+**Start Date:** `06/22/2025`  
 **Goal:** Learn how to deploy your backend applications on the cloud.
 
 - **Topics to Cover:**
@@ -160,11 +169,12 @@ This repository contains a detailed week-by-week learning path to master backend
   - Deploy your **Flask application** to Heroku or AWS.
   - Use **Docker** to containerize your app.
 
-- [ ] **Completed on:** `MM/DD/YYYY`
+- [ ] **Completed on:** `06/28/2025`
 
 ---
 
 ## Week 10: Security Best Practices
+**Start Date:** `06/29/2025`  
 **Goal:** Learn the fundamentals of backend security.
 
 - **Topics to Cover:**
@@ -176,11 +186,12 @@ This repository contains a detailed week-by-week learning path to master backend
   - Implement **password hashing** in your authentication system.
   - Secure API endpoints with **JWT tokens**.
 
-- [ ] **Completed on:** `MM/DD/YYYY`
+- [ ] **Completed on:** `07/05/2025`
 
 ---
 
 ## Week 11: Testing
+**Start Date:** `07/11/2025`  
 **Goal:** Learn how to write tests for your backend code.
 
 - **Topics to Cover:**
@@ -192,11 +203,12 @@ This repository contains a detailed week-by-week learning path to master backend
   - Write tests for your **Flask application**.
   - Set up **CI/CD** pipelines with automated tests.
 
-- [ ] **Completed on:** `MM/DD/YYYY`
+- [ ] **Completed on:** `07/17/2025`
 
 ---
 
 ## Week 12: Performance Optimization and Scaling
+**Start Date:** `07/18/2025`  
 **Goal:** Learn how to scale and optimize your backend applications.
 
 - **Topics to Cover:**
@@ -208,7 +220,7 @@ This repository contains a detailed week-by-week learning path to master backend
   - Implement **caching** in your application.
   - Optimize your database queries for better performance.
 
-- [ ] **Completed on:** `MM/DD/YYYY`
+- [ ] **Completed on:** `07/24/2025`
 
 ---
 
