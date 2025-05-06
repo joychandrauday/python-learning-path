@@ -3,7 +3,7 @@ first_Tuple = (10, 20, 30, "banana", True)
 a, b, c, d, e = first_Tuple
 print(a)  # 10
 
-print(my_tuple[2])   # 30first_Tuple = (10, 20, 30, "banana", True)
+print(first_Tuple[2])   # 30first_Tuple = (10, 20, 30, "banana", True)
 
 # unpacking  tuple 
 a, b, c, d, e = first_Tuple
